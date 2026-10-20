@@ -1,0 +1,11 @@
+process_name: PlanetZoo2.exe
+hotkeys_enabled: true
+overlay_enabled: false
+log_level: INFO
+auto_revert_on_exit: true
+hotkeys:
+  f1: unlimited_currency
+  f2: money_boost
+  f3: instant_build
+  f4: no_conservation_penalty
+  f8: revert-all
