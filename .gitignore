@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Trainer artifacts
+build/
+dist/
+*.spec
+logs/
+dumps/*.bin
+dumps/*.raw
+offsets/*.local.json
+scans/*.txt
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
